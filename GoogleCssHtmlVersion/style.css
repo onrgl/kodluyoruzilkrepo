@@ -1,0 +1,218 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:white;
+
+}
+
+.contenier{
+
+    width: 1200px;
+    height: 550px;
+    
+    margin: 10px;
+    padding:0px;
+}
+
+.box1{
+    width: 1200px; ;
+    height: 250px;
+    background-color:#FFFFFF;
+    padding: 0px;
+}
+.logo{
+    
+    
+    width: 1200px;
+    overflow: hidden;
+    margin: 0px;
+    background-size: contain;
+    text-align: center;
+
+
+}
+
+
+.box2{
+    width: 1200px; ;
+    height: 150px;
+    background-color:white;
+    
+    margin: 0px;
+}
+
+.Shearchbar{
+
+    width: 400px;
+    height: 25px;
+    background-color:white;
+    text-align: center;
+    border-style: ridge;
+    margin-left:400px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+   
+}
+
+.button1{
+
+  background-color:gray;
+  
+  border-style: ridge;
+  width: 150px;
+  height: 30px;
+  margin-left: 430px;
+  margin-top: 0px;
+  float: left;
+  padding: 0px;
+}
+.button2{
+
+    background-color:gray;
+    
+    border-style: ridge;
+    width: 150px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 0px;
+    float: left;
+    padding: 0px;
+  }
+
+.TittleSearch{
+    background-color: white;
+    
+    
+    width: 400px;
+    height: 25px;
+    margin-left: 395px;
+    margin-top:0px;
+    border-style: ridge;
+    
+
+}
+
+.p1{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    visibility: visible;
+    margin-top: 1px;
+
+
+}
+.p2{
+    font-size: 3px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    visibility: visible;
+    margin:0px;
+
+
+}
+
+.box3{
+    width: 400px; ;
+    height: 150px;
+    background-color:cyan;
+    position: relative;
+    float: left;
+    
+
+}
+.box4{
+    width: 400px; ;
+    height: 150px;
+    background-color:cyan;
+    position: relative;
+    float:left;
+    
+}
+.box5{
+    width: 400px; ;
+    height: 150px;
+    background-color:cyan;
+    position: relative;
+    float:left;
+    padding: 0px;
+   
+    
+}
+
+ul{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    visibility: visible;
+    list-style-position: inside;
+    list-style-type: none;
+    margin-left:100px;
+    
+
+
+}
+
+.mailtitle{
+
+    width: 350px;
+    height: 35px;
+    background-color:white;
+    text-align: center;
+    border: 1px;
+    margin-left:30px;
+    margin-top:0px;
+    margin-bottom: 5px;
+   
+}
+
+.mailbar{
+
+    width: 350px;
+    height: 35px;
+    background-color:white;
+    text-align: center;
+    border-style: ridge;
+    margin-left:30px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+
+
+}
+
+.button3{
+    background-color:#62B3AA;
+    
+    border: 2px solid grey;
+    width: 70px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: left;
+    padding: 0px;
+    border-style: ridge;
+
+}
+
+.box5link{
+
+    width: 10px; ;
+    height: 10px;
+    background-color:cyan;
+    position: relative;
+    margin-left:220px;
+    margin-top: 20px;
+   
+
+}
+
+    
+
+
+    
+
+    
+    
+    
