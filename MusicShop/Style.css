@@ -1,0 +1,65 @@
+.body{
+
+    background-color:#E9ECEF ;
+    
+}
+
+.Yazirengi{
+
+    color:white;
+}
+.Yazirengi2{
+
+    color:black;
+}
+
+.ClearList{
+
+    list-style-type: none;
+}
+
+.Colar{
+
+    background-color:#E9ECEF;
+}
+
+#jumbotronColor {
+
+    background-color:#E9ECEF;
+}
+
+.CardPosition{
+
+    display: grid;  
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+
+body{
+    background: #eee;
+}
+span{
+    font-size:15px;
+}
+a{
+  text-decoration:none; 
+  color: #0062cc;
+  border-bottom:2px solid #0062cc;
+}
+.box{
+    padding:60px 0px;
+    text-align: center;
+}
+
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px;
+}
+.text{
+    margin:20px 0px;
+}
+
+.fa{
+     color:#4183D7;
+}
